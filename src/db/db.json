@@ -1,0 +1,86 @@
+{
+    "user":[
+        {
+        "id":"1",
+        "name":"sumit",
+        "cardImg" : "https://images.unsplash.com/photo-1445077100181-a33e9ac94db0",
+        "cardName" : "Latte vs. Flat White - What is the Difference?",
+        "cardCont" : "I bet roasting is the thing that every barista wants to know about! We can develop flavour by roasting coffee. How can we achieve the best tasting coffee? What actually happens when roasting?",
+        "cardBtn" : "Read More"
+    },
+    {
+        "id":"2",
+        "name":"brijesh",
+        "cardImg" : "https://images.unsplash.com/photo-1445077100181-a33e9ac94db0",
+        "cardName" : "Latte vs. Flat White - What is the Difference?",
+        "cardCont" : "I bet roasting is the thing that every barista wants to know about! We can develop flavour by roasting coffee. How can we achieve the best tasting coffee? What actually happens when roasting?",
+        "cardBtn" : "Read More"
+    },
+    {
+        "id":"3",
+        "name":"deepak",
+        "cardImg" : "https://images.unsplash.com/photo-1445077100181-a33e9ac94db0",
+        "cardName" : "Latte vs. Flat White - What is the Difference?",
+        "cardCont" : "I bet roasting is the thing that every barista wants to know about! We can develop flavour by roasting coffee. How can we achieve the best tasting coffee? What actually happens when roasting?",
+        "cardBtn" : "Read More"
+    },
+    {
+        "id":"4",
+        "name":"aman",
+        "cardImg" : "https://images.unsplash.com/photo-1445077100181-a33e9ac94db0",
+        "cardName" : "Latte vs. Flat White - What is the Difference?",
+        "cardCont" : "I bet roasting is the thing that every barista wants to know about! We can develop flavour by roasting coffee. How can we achieve the best tasting coffee? What actually happens when roasting?",
+        "cardBtn" : "Read More"
+    },
+    {
+        "id":"5",
+        "name":"kartik",
+        "cardImg" : "https://images.unsplash.com/photo-1445077100181-a33e9ac94db0",
+        "cardName" : "Latte vs. Flat White - What is the Difference?",
+        "cardCont" : "I bet roasting is the thing that every barista wants to know about! We can develop flavour by roasting coffee. How can we achieve the best tasting coffee? What actually happens when roasting?",
+        "cardBtn" : "Read More"
+    }
+],
+"viewrs":[
+    {
+    "id":"1",
+    "name":"sumit",
+    "cardImg" : "https://images.unsplash.com/photo-1445077100181-a33e9ac94db0",
+    "cardName" : "Latte vs. Flat White - What is the Difference?",
+    "cardCont" : "I bet roasting is the thing that every barista wants to know about! We can develop flavour by roasting coffee. How can we achieve the best tasting coffee? What actually happens when roasting?",
+    "cardBtn" : "Read More"
+},
+{
+    "id":"2",
+    "name":"brijesh",
+    "cardImg" : "https://images.unsplash.com/photo-1445077100181-a33e9ac94db0",
+    "cardName" : "Latte vs. Flat White - What is the Difference?",
+    "cardCont" : "I bet roasting is the thing that every barista wants to know about! We can develop flavour by roasting coffee. How can we achieve the best tasting coffee? What actually happens when roasting?",
+    "cardBtn" : "Read More"
+},
+{
+    "id":"3",
+    "name":"deepak",
+    "cardImg" : "https://images.unsplash.com/photo-1445077100181-a33e9ac94db0",
+    "cardName" : "Latte vs. Flat White - What is the Difference?",
+    "cardCont" : "I bet roasting is the thing that every barista wants to know about! We can develop flavour by roasting coffee. How can we achieve the best tasting coffee? What actually happens when roasting?",
+    "cardBtn" : "Read More"
+},
+{
+    "id":"4",
+    "name":"aman",
+    "cardImg" : "https://images.unsplash.com/photo-1445077100181-a33e9ac94db0",
+    "cardName" : "Latte vs. Flat White - What is the Difference?",
+    "cardCont" : "I bet roasting is the thing that every barista wants to know about! We can develop flavour by roasting coffee. How can we achieve the best tasting coffee? What actually happens when roasting?",
+    "cardBtn" : "Read More"
+},
+{
+    "id":"5",
+    "name":"kartik",
+    "cardImg" : "https://images.unsplash.com/photo-1445077100181-a33e9ac94db0",
+    "cardName" : "Latte vs. Flat White - What is the Difference?",
+    "cardCont" : "I bet roasting is the thing that every barista wants to know about! We can develop flavour by roasting coffee. How can we achieve the best tasting coffee? What actually happens when roasting?",
+    "cardBtn" : "Read More"
+}
+]
+}
