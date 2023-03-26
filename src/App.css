@@ -933,3 +933,52 @@ ul.acrdn_list {
   object-fit: cover;
   margin-bottom: 20px;
 }
+
+.portfolio_box .portCont p {
+  margin: 0;
+  padding: 0;
+}
+
+.portfolio_box .portCont h3 {
+  font-size: 20px;
+  margin-bottom: 5px;
+  padding: 0;
+}
+.portfolio_box .portCont {
+  padding: 10px 0px;
+}
+.portfolio_box img {
+  width: 100%;transition: all 0.2s linear;
+}
+
+.portfolio_box {
+  background: #ffffff;
+  padding: 20px;
+  transition: all 0.2s linear;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  
+}
+.portfolio_box:hover {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.port_img{overflow: hidden;height: 180px;}
+.portfolio_box:hover img{
+  transform: scale(1.1);
+}
+button.port_btn {
+  background: #f7ece6;
+  color: #1f253b;
+  border: 1px solid #ddd;
+  padding: 7px 50px;
+  font-size: 16px;
+  font-weight: 600;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 5px;text-transform: capitalize;
+  margin-bottom: 10px;
+}
+.butns {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+}

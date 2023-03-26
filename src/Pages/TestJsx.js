@@ -18,6 +18,8 @@ import TitleChange from "../components/TitleChange";
 import CovidDashboard from "../components/Covid/CovidDashboard";
 import PokemonApi from "../components/Covid/PokemonApi";
 import Search from "../components/Search"
+// import Portfolio from "../components/Portfolio/Portfolio"
+import Portest from "../components/Portfolio/Portest";
 
 const TestJsx = () => {
   return (
@@ -65,13 +67,20 @@ const TestJsx = () => {
           <div className="col-md-6" style={{background:"#8566aa"}}>            
             <PokemonApi />
           </div>
-          <div className="col-md-6" style={{background:"#efeded"}}>            
+          <div className="col-md-6" style={{background:"#d7b09c"}}>            
             <Search />
+          </div>
+          {/* <div className="col-md-12" style={{background:"#ededed"}} >            
+            <Portfolio />
+          </div> */}
+          <div className="col-md-12" style={{background:"#999"}} >            
+            <Portest />
           </div>
         </div>
       </section>
 
       {/* <BlogCards /> */}
+      
       
     </>
   );
